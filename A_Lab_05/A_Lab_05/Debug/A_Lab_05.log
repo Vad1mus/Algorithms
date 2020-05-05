@@ -1,0 +1,3 @@
+﻿  main.cpp
+X:\University\алгоритмы\LAB\A_Lab_05\A_Lab_05\main.cpp(57,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  A_Lab_05.vcxproj -> X:\University\алгоритмы\LAB\A_Lab_05\Debug\A_Lab_05.exe
